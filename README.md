@@ -1,4 +1,4 @@
-<h3 align="center">🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Ferraz. 💻 Técnico em Informática formado pelo Senac São Miguel. 🌐 Tenho conhecimento em **desenvolvimento frontend** (HTML, CSS) e atualmente estou **aprimorando meus estudos em JavaScript**</h3>
+<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Ferraz. <br>.🌐 Tenho conhecimento em **desenvolvimento frontend** (HTML, CSS) e atualmente estou **aprimorando meus estudos em JavaScript**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
