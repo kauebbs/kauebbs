@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Kau%C3%AA!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Frontend%2C+mobile+e+um+pouco+de+xadrez" alt="Typing SVG" /></a>
 
-<a href="https://www.linkedin.com/in/kau%C3%AA-boscariol-bertolino-da-silva-6b185a235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[https://www.linkedin.com/in/kau%C3%AA-boscariol-bertolino-da-silva-6b185a235](https://www.linkedin.com/in/kauebbs/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=kauebbs&color=2ea043&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil" />
 
 </div>
