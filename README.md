@@ -1,9 +1,51 @@
-<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Ferraz. <br>🌐 Tenho conhecimento em frontend (HTML, CSS) e atualmente estou aprimorando meus estudos em JavaScript</h3>
+<div align="center">
 
-<h3 align="left">Minhas Redes:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/kauê-boscariol-bertolino-da-silva-6b185a235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kauê-boscariol-bertolino-da-silva-6b185a235" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=180&section=header&text=Kauê%20Boscariol&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20formação%20•%20ADS%20na%20Fatec%20Ferraz&descAlignY=58&descSize=16" width="100%" />
 
-<h3 align="left">Linguagens e Ferramentas</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Kau%C3%AA!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Frontend%2C+mobile+e+um+pouco+de+xadrez" alt="Typing SVG" /></a>
+
+<a href="https://www.linkedin.com/in/kau%C3%AA-boscariol-bertolino-da-silva-6b185a235" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=kauebbs&color=2ea043&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil" />
+
+</div>
+
+---
+
+## Sobre mim
+
+- Estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Ferraz de Vasconcelos**
+- Explorando desenvolvimento **mobile** com React Native / Expo
+- Ferraz de Vasconcelos, Brasil
+
+---
+
+## Linguagens e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,python,java,cs,mysql&perline=10" alt="Linguagens" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10" alt="Ferramentas" />
+
+</div>
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kauebbs&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauebbs&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+
+<img src="https://streak-stats.demolab.com?user=kauebbs&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=100&section=footer" width="100%" />
+
+</div>
