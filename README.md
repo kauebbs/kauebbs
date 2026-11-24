@@ -1,61 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0a1f44,100:00f0ff&height=200&section=header&text=KAU%C3%8A%20BOSCARIOL&fontSize=48&fontColor=00f0ff&stroke=1e90ff&strokeWidth=1&animation=twinkling&fontAlignY=38&desc=%2F%2F%20DEV%20EM%20FORMA%C3%87%C3%83O%20%E2%80%A2%20ADS%20%E2%80%A2%20FATEC%20FERRAZ&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b2a5b,100:1f6feb&height=190&section=header&text=Kau%C3%AA%20Boscariol&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20%7C%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=56&descSize=17&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E+INICIALIZANDO+SISTEMA...;%3E+OL%C3%81%2C+EU+SOU+O+KAU%C3%8A;%3E+AN%C3%81LISE+E+DESENVOLVIMENTO+DE+SISTEMAS;%3E+FRONTEND+%2F%2F+MOBILE+%2F%2F+XADREZ" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;Estudante+de+ADS+na+Fatec+Ferraz;Construindo+com+JavaScript+e+React+Native" alt="Typing SVG" /></a>
 
-<a href="https://www.linkedin.com/in/kauebbs/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0a0e27&color=0a0e27" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=kauebbs&color=00f0ff&style=for-the-badge&label=ACESSOS" alt="Acessos ao perfil" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:1e90ff,100:0a1f44&height=3" width="100%" />
-
-## `// SOBRE_MIM`
-
-```bash
-$ whoami
-> Kauê Boscariol
-
-$ cat perfil.txt
-> curso    : Análise e Desenvolvimento de Sistemas
-> local    : Fatec Ferraz de Vasconcelos // São Paulo, BR
-> base     : frontend (HTML, CSS)
-> upgrade  : JavaScript [em andamento]
-> explorando: mobile com React Native / Expo
-> side_quest: analisador de partidas de xadrez com Stockfish
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:1e90ff,100:0a1f44&height=3" width="100%" />
-
-## `// ARSENAL`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,python,java,cs,mysql&perline=10&theme=dark" alt="Linguagens" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10&theme=dark" alt="Ferramentas" />
+<p>
+  <a href="https://www.linkedin.com/in/kauebbs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/kauebbs" target="_blank"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20BR-161b22?style=for-the-badge&logo=googlemaps&logoColor=58a6ff" alt="Localização" />
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:1e90ff,100:0a1f44&height=3" width="100%" />
+---
 
-## `// STATUS_DO_SISTEMA`
+### Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Ferraz de Vasconcelos** e gosto de transformar ideias em interfaces bem feitas e funcionais. Tenho base sólida em **HTML e CSS**, estou aprofundando meus conhecimentos em **JavaScript** e venho explorando o desenvolvimento **mobile com React Native e Expo**.
+
+Fora das aulas, uno programação e xadrez: desenvolvi um analisador de partidas com **Stockfish**, que avalia lances, calcula a precisão dos jogadores e identifica aberturas.
+
+**Foco atual**
+- Aprofundar JavaScript e o ecossistema React
+- Evoluir projetos mobile com React Native / Expo
+- Escrever código limpo, organizado e fácil de manter
+
+---
+
+### Tecnologias
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kauebbs&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&bg_color=0a0e27&title_color=00f0ff&icon_color=00f0ff&text_color=9ecbff&ring_color=1e90ff" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauebbs&layout=compact&hide_border=true&locale=pt-br&bg_color=0a0e27&title_color=00f0ff&text_color=9ecbff" alt="Linguagens mais usadas" />
-
-<img src="https://streak-stats.demolab.com?user=kauebbs&hide_border=true&locale=pt_BR&background=0A0E27&ring=00F0FF&fire=1E90FF&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=9ECBFF&sideLabels=00F0FF&dates=5B7DB1&stroke=1E3A8A" alt="Sequência de contribuições" />
+| Área | Stack |
+|:---:|:---:|
+| **Front-end** | <img src="https://skillicons.dev/icons?i=html,css,js,react" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,cs" /> |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:1e90ff,100:0a1f44&height=3" width="100%" />
+---
+
+### Estatísticas
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauebbs&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauebbs&layout=compact&hide_border=true&locale=pt-br&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais usadas" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0a1f44,100:020617&height=120&section=footer" width="100%" />
+<img src="https://streak-stats.demolab.com?user=kauebbs&hide_border=true&locale=pt_BR&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=58A6FF&dates=8B949E&stroke=30363D" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+<div align="center">
+
+Aberto a oportunidades de estágio, projetos e troca de conhecimento.<br/>
+Vamos conversar pelo <a href="https://www.linkedin.com/in/kauebbs/">LinkedIn</a>.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0b2a5b,100:0d1117&height=110&section=footer" width="100%" />
 
 </div>
