@@ -55,7 +55,6 @@ $ cat perfil.txt
 
 <div align="center">
 
-`> CONEXÃO ABERTA: bora trocar ideias sobre web, mobile e xadrez. Me chame no LinkedIn_`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0a1f44,100:020617&height=120&section=footer" width="100%" />
 
