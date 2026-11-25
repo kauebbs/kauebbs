@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b2a5b,100:1f6feb&height=190&section=header&text=Kau%C3%AA%20Boscariol&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20%7C%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=56&descSize=17&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;Estudante+de+ADS+na+Fatec+Ferraz;Construindo+com+JavaScript+e+React+Native" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;Estudante+de+ADS+na+Fatec+Ferraz;Construindo+com+JavaScript+e+React+Native" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/kauebbs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
