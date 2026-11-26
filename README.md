@@ -46,7 +46,6 @@ Fora das aulas, uno programação e xadrez: desenvolvi um analisador de partidas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauebbs&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" alt="Estatísticas do GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauebbs&layout=compact&hide_border=true&locale=pt-br&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais usadas" />
 
 <img src="https://streak-stats.demolab.com?user=kauebbs&hide_border=true&locale=pt_BR&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=58A6FF&dates=8B949E&stroke=30363D" alt="Sequência de contribuições" />
